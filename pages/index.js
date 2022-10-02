@@ -1,4 +1,4 @@
-import MainPage from '../components/MainPage'
+import MainPage from '../components/Mainpage'
 import HowItWorks from '../components/HowItWorks'
 import Contact from '../components/Contact'
 import FAQ from '../components/FAQ'
