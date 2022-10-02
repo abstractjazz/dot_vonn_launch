@@ -40,7 +40,7 @@ import Link from 'next/link'
     return (
       
         <div className="w-full f-container flex flex-col justify-center items-center gap-y-10 mb-20 py-12 shadow-xl md:pl-12 md:pr-12 z-0">
-        <video className="lg:absolute z-1" muted autoplay="autoplay" loop>
+        <video className="lg:absolute z-1" muted autoPlay="autoplay" loop>
           <source src="https://ik.imagekit.io/a9ltbtydo/pricing-gif/paper_reverse.mp4"></source>
         </video>
        <div className="headline-cont lg:flex items-center pl-12 w-full z-10">
