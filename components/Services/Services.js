@@ -81,7 +81,7 @@ export default function Services() {
           
             <div key={id} className="flex flex-col overflow-hidden border-2 border-black shadow-lg">
               <div className="flex-shrink-0">
-                <Image className="h-48 w-full object-cover" src={post.imageUrl} alt="" />
+                <img className="h-48 w-full object-cover" src={post.imageUrl} alt="" />
               </div>
               <div className="flex flex-1 flex-col justify-between bg-white p-6">
                 <div className="flex-1">
