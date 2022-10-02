@@ -5,7 +5,7 @@ import ReactPlayer from 'react-player'
 
 
 
-export default function Splash() {
+export default function MainPage() {
   return (
     <section>
     <div className="relative">
