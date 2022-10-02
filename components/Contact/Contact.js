@@ -118,7 +118,7 @@ export default function Contact() {
             {/* Contact form */}
             <div className="py-10 px-6 sm:px-10 lg:col-span-2 xl:p-12">
               <h3 className="text-lg font-medium text-gray-900"></h3>
-              <form name="Contact" className="mt-6 grid grid-cols-1 gap-y-6 sm:grid-cols-2 sm:gap-x-8" action="/success" method="POST" data-netlify="true">
+              <form name="Contact" className="mt-6 grid grid-cols-1 gap-y-6 sm:grid-cols-2 sm:gap-x-8" action={"/success"} method="POST" data-netlify="true">
                 <div>
                   <label htmlFor="first-name" className="block text-sm font-medium text-gray-100">
                     First name
