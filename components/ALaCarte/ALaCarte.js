@@ -26,9 +26,9 @@ import Link from 'next/link'
   const sides = [
 
 
-    { id: 1, name: 'Ad Design & Copy' },
-    { id: 2, name: 'Content Batch' },
-    { id: 3, name: 'Blog Post' },
+    { id: 1, name: 'Ad design & copy' },
+    { id: 2, name: 'Content batch' },
+    { id: 3, name: 'Blog post' },
     { id: 4, name: 'Email design' },
     { id: 5, name: 'Email copy/ Newsletter copy' },
     { id: 6, name: 'Page audit & competitor audit' },
