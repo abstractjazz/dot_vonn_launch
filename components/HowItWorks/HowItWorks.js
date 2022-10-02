@@ -21,14 +21,14 @@ export default function HowItWorks() {
               <h2 className="font-semibold leading-6 text-[#ff66ea]">We create connections</h2>
               <h3 className="mt-2 text-3xl font-bold leading-8 tracking-tight text-gray-900 sm:text-4xl" id="about">About Us</h3>
               <p className="mt-8 text-lg text-gray-500">
-                Dot Vonn came from the idea that huge brands shouldn't be the only ones to get the best of creative & technical services. 
+                Dot Vonn came from the idea that huge brands shouldn&apos;t be the only ones to get the best of creative & technical services. 
               </p>
               <div className="prose prose-indigo mt-5 text-gray-500">
                 <p>
-               Creative entrepreneurs - people who make proucts, art or experiences - deserve help, too. We're a network of creative and technical pros who work in industries like advertising, design, production and tech. And we know the superpower of a well-crafted online presence & brand to create meaningful connections.  
+               Creative entrepreneurs - people who make proucts, art or experiences - deserve help, too. We&apos;re a network of creative and technical pros who work in industries like advertising, design, production and tech. And we know the superpower of a well-crafted online presence & brand to create meaningful connections.  
                 </p><br></br>
                 <p>
-                 So we joined forces to make that power accessible to the many. We bet you're doing something more people would love to see. We love to help them see it.
+                 So we joined forces to make that power accessible to the many. We bet you&apos;re doing something more people would love to see. We love to help them see it.
                 </p><br></br>
                 {/* <ul role="list">
                   <li>Quis elit egestas venenatis mattis dignissim.</li>
@@ -45,7 +45,7 @@ export default function HowItWorks() {
               <h3 className="mt-2 text-3xl font-bold leading-8 tracking-tight text-gray-900 sm:text-4xl">Our Process</h3><br></br>
               
                 <p>
-                  We'll always start by learning about your business. And then we'll establish goals and a plan specific to <em>your business.</em> That means you'll always talk to a real person, and get a custom solution. From the smallest project to a long-term vision, you get today's leading creative know-how and technical chops.  
+                  We&apos;ll always start by learning about your business. And then we&apos;ll establish goals and a plan specific to <em>your business.</em> That means you&apos;ll always talk to a real person, and get a custom solution. From the smallest project to a long-term vision, you get today&apos;s leading creative know-how and technical chops.  
                 </p>
                 </div>
                 {/* <p>

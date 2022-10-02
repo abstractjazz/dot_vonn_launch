@@ -85,6 +85,7 @@ export default function Portfolio() {
               src={feature.image}
               width={1000}
               height={500}
+              alt=""
             />
             </div>
           ))}

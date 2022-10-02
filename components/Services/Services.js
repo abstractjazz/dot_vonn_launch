@@ -73,7 +73,7 @@ export default function Services() {
         <div className="text-center">
           <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Services</h2>
           <p className="mx-auto mt-3 max-w-2xl text-xl text-gray-500 sm:mt-4">
-           You've got business to handle.<br></br> We'll help take care of the digital stuff. 
+           You&apos;ve got business to handle.<br></br> We&apos;ll help take care of the digital stuff. 
           </p>
         </div>
         <div className="mx-auto mt-12 grid max-w-lg gap-5 lg:max-w-none lg:grid-cols-3">
@@ -81,7 +81,7 @@ export default function Services() {
           
             <div key={id} className="flex flex-col overflow-hidden border-2 border-black shadow-lg">
               <div className="flex-shrink-0">
-                <img className="h-48 w-full object-cover" src={post.imageUrl} alt="" />
+                <Image className="h-48 w-full object-cover" src={post.imageUrl} alt="" />
               </div>
               <div className="flex flex-1 flex-col justify-between bg-white p-6">
                 <div className="flex-1">

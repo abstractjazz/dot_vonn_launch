@@ -155,7 +155,7 @@ export default function Pricing() {
               
               <div className="px-6 pt-6 pb-8">
                 {/* useState/ useEffect for conditional rendering  */}
-                <h3 className="text-sm font-medium text-gray-900">What's included: <br></br> <span className="text-[#ff66ea]" id="pickAny"> {tier.action} {tier.includedServiceNumber} {tier.selectionFrequency}</span></h3>
+                <h3 className="text-sm font-medium text-gray-900">What&apos;s included: <br></br> <span className="text-[#ff66ea]" id="pickAny"> {tier.action} {tier.includedServiceNumber} {tier.selectionFrequency}</span></h3>
                 <ul role="list" className="mt-6 space-y-4">
                   {tier.includedFeatures.map((feature) => (
                     <li key={feature} className="flex space-x-3">

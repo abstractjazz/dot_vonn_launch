@@ -42,12 +42,12 @@ export default function WebsitePricing() {
               <div className="flex-1 bg-white px-6 py-8 lg:p-12">
                 <h3 className="text-2xl font-bold text-gray-900 sm:text-3xl sm:tracking-tight">Custom Web Development</h3>
                 <p className="mt-6 text-base text-gray-500">
-                 A modern, full-featured website built for your needs and your brand. Professionally designed and optimized with today's best-practices, your site will stand out from the cookie-cutter crowd.
+                 A modern, full-featured website built for your needs and your brand. Professionally designed and optimized with today&apos;s best-practices, your site will stand out from the cookie-cutter crowd.
                 </p>
                 <div className="mt-8">
                   <div className="flex items-center">
                     <h4 className="flex-shrink-0 bg-white pr-4 text-base font-semibold text-[#]">
-                      What's included
+                      What&apos;s included
                     </h4>
                     <div className="flex-1 border-t-2 border-gray-200"/>
                   </div>
@@ -90,7 +90,7 @@ export default function WebsitePricing() {
 
                   <p className="mt-4 text-sm">
                   <a href="#" className="font-medium text-gray-500 underline">
-                    Have something different in mind? Let's make it happen.
+                    Have something different in mind? Let&apos;s make it happen.
                   </a>
                 </p>
 
