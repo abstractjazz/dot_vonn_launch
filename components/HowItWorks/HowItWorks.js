@@ -6,9 +6,12 @@ export default function HowItWorks() {
         <div className="lg:absolute lg:inset-0">
           <div className="lg:absolute lg:inset-y-0 lg:left-0 lg:w-1/2">
             <video className="h-56 w-full object-cover lg:absolute lg:h-full object-fit"
+              poster="/background_rev.gif"
               type="video/mp4"
               alt="A man magically taking whole pieces of paper from a shredder"
-              muted autoPlay="autoplay" loop="loop" poster="/vid_poster_image.jpg">
+              muted autoPlay="autoplay" loop="loop" 
+              
+              >
              <source src="https://ik.imagekit.io/a9ltbtydo/about-new/background_rev.mp4"></source>
               
             
@@ -45,7 +48,7 @@ export default function HowItWorks() {
               <h3 className="mt-2 text-3xl font-bold leading-8 tracking-tight text-gray-900 sm:text-4xl">Our Process</h3><br></br>
               
                 <p>
-                  We&apos;ll always start by learning about your business. And then we&apos;ll establish goals and a plan specific to <em>your business.</em> That means you&apos;ll always talk to a real person, and get a custom solution. From the smallest project to a long-term vision, you get today&apos;s leading creative know-how and technical chops.  
+                  We&apos;ll always start by learning about your business. And then we&apos;ll establish goals and a plan specific to <em>your business.</em> That means you&apos;ll always talk to a real person, and get a custom solution. From the smallest project to a long-term vision, you get todays leading creative know-how and technical chops.  
                 </p>
                 </div>
                 {/* <p>
