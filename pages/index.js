@@ -1,4 +1,4 @@
-import MainPage from '../components/MainPage'
+import Splash from '../components/MainPage'
 import HowItWorks from '../components/HowItWorks'
 import Contact from '../components/Contact'
 import FAQ from '../components/FAQ'
@@ -9,7 +9,7 @@ import Services from '../components/Services'
 export default function Main() {
   return (
    <section>
-   <MainPage />
+   <Splash/>
    {/* <MainPage2/> */}
    {/* <Portfolio/> */}
    <Services/>
