@@ -1,9 +1,4 @@
 /* This example requires Tailwind CSS v2.0+ */
-import Image from 'next/image'
-import ReactPlayer from 'react-player'
-
-
-
 
 export default function MainPage() {
   return (
