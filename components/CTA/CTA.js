@@ -12,6 +12,7 @@ export default function CTA() {
                 href="https://calendly.com/dot-vonn/dot-vonn-intro-consultation"
                 className="inline-flex items-center justify-center border-2 border-black bg-white px-5 py-3 text-base font-medium text-black hover:bg-[#ffc800]"
                 target="_blank"
+                rel="noreferrer"
               >
                 Get Started
               </a>

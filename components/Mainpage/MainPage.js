@@ -27,6 +27,7 @@ export default function MainPage() {
                   href="https://calendly.com/dot-vonn/dot-vonn-intro-consultation"
                   className="flex w-full items-center justify-center border-2 border-black px-8 py-3 text-base font-medium text-black hover:bg-[#ffc800ff] hover:text-black md:py-4 md:px-10 md:text-lg"
                   target="_blank"
+                  rel="noreferrer"
                 >
                   Get Access 
                 </a>

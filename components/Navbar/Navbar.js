@@ -66,6 +66,7 @@ return(
               <div className="hidden sm:ml-6 sm:flex sm:items-center">
               <a href='https://calendly.com/dot-vonn/dot-vonn-intro-consultation'
                   target="_blank"
+                  rel="noreferrer"
                   className="p-1 text-black border-2 border-black hover:bg-[#ffc800ff] focus:outline-none"
                  >
                  Get Access

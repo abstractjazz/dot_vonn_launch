@@ -76,6 +76,7 @@ export default function WebsitePricing() {
                       href="https://calendly.com/dot-vonn/dot-vonn-intro-consultation"
                       className="flex items-center justify-center border border-transparent bg-gray-800 px-5 py-3 text-base font-medium text-white hover:border-black hover:border-2 hover:bg-[#ffc800] hover:text-black"
                       target="_blank"
+                      rel="noreferrer"
                     >
                       Get Started
                     </a>

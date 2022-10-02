@@ -71,7 +71,7 @@ import Link from 'next/link'
            
         </div>
         <div className="mt-12 md:ml-12 lg:flex lg:flex-row lg:justify-center">
-       <a href="https://calendly.com/dot-vonn/dot-vonn-intro-consultation" className="md:w-1/2 w-full self-start border border-black border-2 bg-black text-white hover:bg-[#ffc800] hover:text-black font-bold text-center shadow-md px-12" target="_blank">Get Started</a>
+       <a href="https://calendly.com/dot-vonn/dot-vonn-intro-consultation" className="md:w-1/2 w-full self-start border border-black border-2 bg-black text-white hover:bg-[#ffc800] hover:text-black font-bold text-center shadow-md px-12" target="_blank" rel="noreferrer">Get Started</a>
         </div>
       </fieldset>
       </div>
