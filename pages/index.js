@@ -9,7 +9,7 @@ import Services from '../components/Services'
 export default function Main() {
   return (
    <section>
-   <MainPage/>
+   {/* <MainPage/> */}
    <Services/>
    <HowItWorks/>
    <CTA/>
