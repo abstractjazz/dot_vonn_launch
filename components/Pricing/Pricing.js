@@ -13,7 +13,7 @@ const tiers = [
     href: '#',
     priceMonthly: 3995,
     description: "Nice work! You've got a business. Now, let's work on your brand.",
-    includedFeatures: ['Professionally designed logo', 'Custom type & design system', 'Page & competitor audit', 'Content pillars & content plan', '1 content batch (set of 9 across 1 platform)', 'Simple website'],
+    includedFeatures: ['Professionally designed logo', 'Business card design', 'Custom type & design system', 'Page & competitor audit', 'Content pillars & content plan', '1 content batch (set of 9 across 1 platform)', 'Simple website'],
     pricingStructure: 'single payment'  
   },
   {
