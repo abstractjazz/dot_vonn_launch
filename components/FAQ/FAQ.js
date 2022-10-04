@@ -4,15 +4,16 @@ import { ChevronDownIcon } from '@heroicons/react/24/outline'
 const faqs = [
 
 
-  {
-    question: "What comes with a simple website?",
-    answer:
-      "A simple website is up to five pages of static content, meaning you won't be able to make updates on the fly. If you think you'll need to make frequent updates, we offer site maintenance, or a custom build.",
-  },
+  
   {
     question: "Can we work out a custom agreement not listed in your pricing?",
     answer:
       "We developed our pricing to be accessible to entrepreneurs in a range of stages. If you need more or less than you see in our retainers, that's cool. Reach out and we'll see what we can do.",
+  },
+  {
+    question: "What comes with a simple website?",
+    answer:
+      "A simple website is up to five pages of static content, meaning you won't be able to make updates on the fly. If you think you'll need to make frequent updates, we offer site maintenance, or a custom build.",
   },
   {
     question: "Are there limits on free hosting?",
@@ -25,9 +26,9 @@ const faqs = [
       "Choosing the words that lead a person to the action you want on your site is part art, part science. A website copy consultation shows you the basics so you're better equipped to tackle that task.",
   },
   {
-    question: "What are content pillars and content plan?",
+    question: "What are content pillars and what's a content plan?",
     answer:
-      "Content pillars and a content plan are a core part of your content strategy. Your pillars are the themes you talk about that are connected to your business goals, and your plan decides how those themes come to life - by outlining the actual content and the best place to publish it.",
+      "Content pillars and a content plan are a core part of your content strategy. Your pillars are the themes you talk about that are connected to your business goals. Your content plan decides how those themes come to life by outlining what kind of content to make and the best place to publish it. Together, content pillars and a content plan help ensure your content is both valuable to your audience and supporting your overall business strategy.",
   },
   {
     question: "Do you shoot videos or stills?",

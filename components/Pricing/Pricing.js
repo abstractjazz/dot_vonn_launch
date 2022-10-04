@@ -145,7 +145,7 @@ export default function Pricing() {
                 </p>
                 <a
                   href="https://calendly.com/dot-vonn/dot-vonn-intro-consultation"
-                  className="mt-8 block w-full border-2 border-black bg-black py-2 text-center text-sm font-semibold text-white hover:bg-[#ffc800] hover:text-black"
+                  className="mt-8 block w-1/2 lg:w-full border-2 border-black bg-black py-2 text-center text-sm font-semibold text-white hover:bg-[#ffc800] hover:text-black"
                   target="_blank"
                   rel="noreferrer"
                 >
