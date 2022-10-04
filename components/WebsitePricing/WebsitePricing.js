@@ -11,7 +11,7 @@ const includedFeatures = [
 //   if you expect your site will receive more than 10,000 visits per month - 19/ month
   'Custom domain set up',
   // Provider, godaddy. Fee not included
-  'Custom e-mail set up (name@yoursite.com)',
+  'Custom e-mail set up',
 //   tooltip:  Provider, gmail. Fee not included.
   'Content loaded for you',
    
@@ -36,7 +36,7 @@ export default function WebsitePricing() {
       </div>
       <div className="mt-8 bg-white pb-16 sm:mt-12 sm:pb-20 lg:pb-28">
         <div className="relative">
-          <div className="absolute inset-0 h-1/2 bg-gray-100" />
+          <div className="absolute inset-0 h-1/2" />
           <div className="relative mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
             <div className="mx-auto max-w-lg overflow-hidden rounded-lg shadow-lg lg:flex lg:max-w-none">
               <div className="flex-1 bg-white px-6 py-8 lg:p-12">
@@ -49,9 +49,9 @@ export default function WebsitePricing() {
                     <h4 className="flex-shrink-0 bg-white pr-4 text-base font-semibold text-[#]">
                       What&apos;s included
                     </h4>
-                    <div className="flex-1 border-t-2 border-gray-200"/>
+                    <div className="flex-1 border-t-2 border-red-200"/>
                   </div>
-                  <ul role="list" className="mt-8 space-y-5 lg:grid lg:grid-cols-2 lg:gap-x-8 lg:gap-y-5 lg:space-y-0">
+                  <ul role="list" className="mt-8 w-full space-y-5 lg:grid lg:grid-cols-2 lg:gap-x-8 lg:gap-y-5 lg:space-y-0">
                     {includedFeatures.map((feature) => (
                       <li key={feature} className="flex items-start lg:col-span-1">
                         <div className="flex-shrink-0">
