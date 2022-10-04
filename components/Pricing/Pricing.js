@@ -134,18 +134,18 @@ export default function Pricing() {
          
           (
 
-              <div id="keyCheck" key={tier.name} className="divide-y divide-gray-200 rounded-lg border border-gray-200 shadow-sm bg-white w-screen md:w-full">
+              <div id="keyCheck" key={tier.name} className="divide-y divide-gray-200 rounded-lg border border-gray-200 shadow-sm bg-white lg:w-full">
   
               <div className="p-6">
                 <h2 className="text-lg font-medium leading-6 text-gray-900">{tier.name}</h2>
-                <p className="mt-4 text-sm text-gray-500">{tier.description}</p>
+                <p className="w-[50%] lg:w-full mt-4 text-sm text-gray-500">{tier.description}</p>
                 <p className="mt-8">
                   <span className="text-4xl font-bold tracking-tight text-gray-900">${tier.priceMonthly}</span>{' '}
                   <span className="text-base font-medium text-gray-500"><br></br>{tier.pricingStructure}</span>
                 </p>
                 <a
                   href="https://calendly.com/dot-vonn/dot-vonn-intro-consultation"
-                  className="mt-8 block w-1/2 lg:w-full border-2 border-black bg-black py-2 text-center text-sm font-semibold text-white hover:bg-[#ffc800] hover:text-black"
+                  className="mt-8 block w-[50%] lg:w-full border-2 border-black bg-black py-2 text-center text-sm font-semibold text-white hover:bg-[#ffc800] hover:text-black"
                   target="_blank"
                   rel="noreferrer"
                 >
