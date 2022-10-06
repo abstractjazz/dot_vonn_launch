@@ -109,7 +109,7 @@ export default function CollaboratorForm() {
               </div>
               <h3 className="text-3xl font-bold text-black">Stay in touch</h3>
               <p className="mt-6 max-w-3xltext-base text-black">
-               If you're a potential collaborator who wants to make money and cool work, then this is the form you've been waiting for.  
+               If you&apos;re a potential collaborator who wants to make money and cool work, then this is the form you&apos;ve been waiting for.  
               </p>
              
             </div>
