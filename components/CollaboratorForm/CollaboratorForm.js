@@ -131,6 +131,7 @@ export default function CollaboratorForm() {
                       autoComplete="given-name"
                       className="block w-full rounded-md border-gray-300 py-3 px-4 text-white shadow-sm focus:border-indigo-500 focus:ring-indigo-500 bg-gray-900"
                       aria-required
+                      required
                     />
                   </div>
                 </div>
@@ -146,6 +147,7 @@ export default function CollaboratorForm() {
                       autoComplete="family-name"
                       className="block w-full rounded-md border-gray-300 py-3 px-4 text-white shadow-sm focus:border-indigo-500 focus:ring-indigo-500 bg-gray-900"
                       aria-required
+                      required
                     />
                   </div>
                 </div>
@@ -161,6 +163,7 @@ export default function CollaboratorForm() {
                       autoComplete="email"
                       className="block w-full rounded-md border-gray-300 py-3 px-4 text-white shadow-sm focus:border-indigo-500 focus:ring-indigo-500 bg-gray-900"
                       aria-required
+                      required
                     />
                   </div>
                 </div>
