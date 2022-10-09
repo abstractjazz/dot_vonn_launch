@@ -107,10 +107,24 @@ export default function Contact() {
                   </defs>
                 </svg>
               </div>
-              <h3 className="text-3xl font-bold text-black">Get in touch</h3>
+              <h3 className="text-3xl font-bold text-black mb-8">Get in touch</h3>
               <p className="mt-6 max-w-3xltext-base text-black">
                 Questions, collaborators, love letters & feedback welcome.
-              </p>
+              </p><br></br>
+
+              <p className="mb-4">Based in sunny Oakland, California</p>
+              <ul key ="contactInfo-2">
+              <li className="flex space-x-3" key="phone-2">
+              <EnvelopeIcon className="h-5 w-5" ></EnvelopeIcon>
+              <span>info@dotvonn.com</span>
+              </li>
+
+  
+              <li className="flex space-x-3" key="envelope-2">
+              <PhoneIcon className="h-5 w-5"/>
+               <span>+1 510-221-0875</span>
+               </li>
+               </ul>
              
               
             </div>

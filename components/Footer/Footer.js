@@ -98,6 +98,7 @@ const navigation = {
               </a>
             ))}
           </div>
+          <p className="mt-8 text-center text-base text-gray-400">Looking for a gig? <a href={'/collaborators'} className="underline">Click here</a>.</p>
           <p className="mt-8 text-center text-base text-gray-400">&copy; 2022 Dot Vonn, All rights reserved.</p>
         </div>
       </footer>
