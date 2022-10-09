@@ -114,7 +114,7 @@ export default function CollaboratorForm() {
               </p>
               <div className=" mt-12">
                 <h1 className="text-3xl font-bold mb-4 mt-4">What is Dot Vonn?</h1>
-                <p>A web studio that serves creative entrepreneurs. We're made up of a network of creatives, technologists and strategists who believe in making our own opportunities. We also practice collaboration (not hierarchy 🙅🏾‍♀️) and transparent, equitable pay. Sound good? <span className="text-red-800">Leave your info</span>, and we'll be in touch as projects become available.</p>
+                <p>A web studio that serves creative entrepreneurs. We&apos;re made up of a network of creatives, technologists and strategists who believe in making our own opportunities. We also practice collaboration (not hierarchy 🙅🏾‍♀️) and transparent, equitable pay. Sound good? <span className="text-red-800">Leave your info</span>, and we&apos;ll be in touch as projects become available.</p>
               </div><br></br>
              <div className="text-gray-500 text-sm">
               <p className="mb-4">Based in sunny Oakland, California</p>
