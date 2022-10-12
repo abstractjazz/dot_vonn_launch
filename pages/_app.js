@@ -6,8 +6,8 @@ import Script from 'next/script'
 function MyApp({ Component, pageProps }) {
 return (
   <>
-  <Script strategy="lazyOnload" src={`<script async src="https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}`}/>
-  <Script strategy="lazyOnload">
+  <Script id="loads-GA" strategy="lazyOnload" src={`<script async src="https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}`}/>
+  <Script id="GA-param" strategy="lazyOnload">
     {`
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
@@ -24,7 +24,6 @@ return (
     <link rel='dot vonn icon' href="/tab-favicon.png"/>
     <meta name="description" content="The best websites for creative entrepreneurs"/>
         <meta name="author" content="Dot Vonn Web And Content Studio"/>
-       
         <meta name="robots" content="index, follow"/>
         <meta property="og:title" content="Dot Vonn Web and Content Studio."/>
         <meta property="og:site_name" content="Dot Vonn"/>
