@@ -2,19 +2,10 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
-    experimental: {
-      images: {
-        allowFutureImage: true,
-      },
-    },
+  env: {
+    BASE_URL: process.env.BASE_URL,
+    }
   }
 
 
 module.exports = nextConfig
-module.exports = {
-  experimental: {
-    images: {
-      allowFutureImage: true,
-    },
-  },
-}
