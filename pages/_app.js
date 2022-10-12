@@ -1,10 +1,12 @@
 import '../styles/globals.css'
 import Layout from '../components/Layout'
 import Head from 'next/head'
+import Script from 'next/script'
 
 function MyApp({ Component, pageProps }) {
 return (
   <>
+  <Script strategy="lazyOnload" src={`<script async src="https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GOOGLE_ANALYTICS}`}/>
   <Head>
     <title>Dot Vonn</title>
     <meta name="viewport" content="initial-scale=1.0, width=device-width" />
