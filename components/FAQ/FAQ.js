@@ -31,11 +31,6 @@ const faqs = [
       "Content pillars and a content plan are a core part of your content strategy. Your pillars are the themes you talk about that are connected to your business goals. Your content plan decides how those themes come to life by outlining what kind of content to make and the best place to publish it. Together, content pillars and a content plan help ensure your content is both valuable to your audience and supporting your overall business strategy.",
   },
   {
-    question: "Do you shoot videos or stills?",
-    answer:
-      "We typically create original designs or animations, source images or video, or use images you provide. However, we can work with our partners to arrange a shoot. If you think you may need a shoot, let's talk about the details, and make a plan together.",
-  },
-  {
     question: "What's up with the name?",
     answer:
       "Our name is an homage to and creative twist on the name of Dorothy Vaughan, an early Black Woman computer scientist. We honor her technical brilliance, strength and pioneering genius.",
