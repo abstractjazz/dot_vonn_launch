@@ -33,7 +33,7 @@ const faqs = [
   {
     question: "Do you shoot videos or stills?",
     answer:
-      "We do not shoot videos or stills, but we have partners who do. We typically create original designs, source images, or use images you provide. If you think you may need a shoot, let's talk about the details, and make a plan together.",
+      "We typically create original designs, source images, or use images you provide. However, we can work with our partners to arrange a shoot. If you think you may need a shoot, let's talk about the details, and make a plan together.",
   },
   {
     question: "What's up with the name?",
