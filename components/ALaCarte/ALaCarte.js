@@ -44,7 +44,7 @@ import Link from 'next/link'
           <source src="https://ik.imagekit.io/a9ltbtydo/pricing-gif/paper_reverse.mp4"></source>
         </video>
        <div className="headline-cont lg:flex items-center pl-12 w-full z-10">
-        <h1 className="text-2xl font-bold text-white bg-black/50 shadow md px-4 py-4 z-50">Just need a couple things done?<span className="text-[#ffc800]">Cool with us</span>.</h1>
+        <h1 className="text-2xl font-bold text-white bg-black/50 shadow md px-4 py-4 z-50">Just need a couple things done? <span className="text-[#ffc800]"> Cool with us</span>.</h1>
         <div className='flex flex-row gap-x-40 justify-center'>
         </div>
       <fieldset className="accent-[#ffc800] z-50">
