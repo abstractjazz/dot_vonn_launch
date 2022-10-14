@@ -33,12 +33,12 @@ const faqs = [
   {
     question: "Do you shoot videos or stills?",
     answer:
-      "We typically create original designs, source images, or use images you provide. However, we can work with our partners to arrange a shoot. If you think you may need a shoot, let's talk about the details, and make a plan together.",
+      "We typically create original designs or animations, source images or video, or use images you provide. However, we can work with our partners to arrange a shoot. If you think you may need a shoot, let's talk about the details, and make a plan together.",
   },
   {
     question: "What's up with the name?",
     answer:
-      "Our name is an homage and creative twist on the name of Dorothy Vaughan, an early Black Woman computer scientist. We honor her technical brilliance, strength and pioneering genius.",
+      "Our name is an homage to and creative twist on the name of Dorothy Vaughan, an early Black Woman computer scientist. We honor her technical brilliance, strength and pioneering genius.",
   },
 
 ]

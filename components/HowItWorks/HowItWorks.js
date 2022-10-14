@@ -28,7 +28,7 @@ export default function HowItWorks() {
               </p>
               <div className="prose prose-indigo mt-5 text-gray-500">
                 <p>
-               Creative entrepreneurs - people who make proucts, art or experiences - deserve help, too. We&apos;re a network of creative and technical pros who work in industries like advertising, design, production and tech. And we know the superpower of a well-crafted online presence & brand to create meaningful connections.  
+               Creative entrepreneurs and growing brands - those who make products, art or experiences - deserve help, too. We&apos;re a network of creative and technical pros who work in industries like advertising, design, production and tech. And we know the superpower of a well-crafted online presence & brand to create meaningful connections.  
                 </p><br></br>
                 <p>
                  So we joined forces to make that power accessible to the many. We bet you&apos;re doing something more people would love to see. We love to help them see it.
