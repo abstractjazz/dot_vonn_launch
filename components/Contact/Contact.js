@@ -112,7 +112,7 @@ export default function Contact() {
                 Questions, collaborators, love letters & feedback welcome.
               </p><br></br>
 
-              <p className="mb-4">Based in sunny Oakland, California</p>
+              <p className="mb-4">Based in Oakland, California</p>
               <ul key ="contactInfo-2">
               <li className="flex space-x-3" key="phone-2">
               <EnvelopeIcon className="h-5 w-5" ></EnvelopeIcon>
