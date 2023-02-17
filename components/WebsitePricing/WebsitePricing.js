@@ -66,7 +66,7 @@ export default function WebsitePricing() {
               <div className="bg-gray-50 py-8 px-6 text-center lg:flex lg:flex-shrink-0 lg:flex-col lg:justify-center lg:p-12">
                 {/* <p className="text-lg font-medium leading-6 text-gray-900">Pay once, own it forever</p> */}
                 <div className="mt-4 flex items-center justify-center text-5xl font-bold tracking-tight text-gray-900">
-                  <span>$1995</span>
+                  <span>$2995</span>
                   <span className="ml-3 text-xl font-medium tracking-normal text-gray-500">USD</span>
                 </div>
               
