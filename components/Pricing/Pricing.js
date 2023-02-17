@@ -19,7 +19,7 @@ const tiers = [
   {
     name: 'Creative Sprint',
     href: '#',
-    priceMonthly: '1495',
+    priceMonthly: '1695',
     description:  "Grab attention, hold it,  start building on it.",
     includedFeatures: [
       'Ad design & copy (Facebook, Insta, TikTok, LinkedIn) - 3 ads perfectly to spec',
@@ -41,7 +41,7 @@ const tiers = [
   {
     name: 'Creative Partnership',
     href: '#',
-    priceMonthly: '1385',
+    priceMonthly: '1485',
     description: 'Make valuable content for enthusiastic followers – who can become loyal customers.',
     includedFeatures: [
       'Ad design & copy (Facebook, Insta, TikTok, LinkedIn) - 3 ads perfectly to spec',
@@ -62,7 +62,7 @@ const tiers = [
   {
     name: 'Strategic Partnership',
     href: '#',
-    priceMonthly: '1175',
+    priceMonthly: '1295',
     description: 'A longer-term investment in your business and brand. And a partner for the journey.',
     includedFeatures: [
       'Ad design & copy (Facebook, Insta, TikTok, LinkedIn) - 3 ads perfectly to spec',
