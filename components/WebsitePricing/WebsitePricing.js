@@ -5,7 +5,7 @@ import { CheckCircleIcon } from '@heroicons/react/20/solid'
 const includedFeatures = [
 
   'Website built for you by creative industry pros',
-  'Includes CMS and easy-to-use site editor',
+  'Includes easy-to-use CMS',
   'Fresh baked, never stale design and layout styles –– tailored to your brand',
   'Free hosting',
 //   if you expect your site will receive more than 10,000 visits per month - 19/ month
