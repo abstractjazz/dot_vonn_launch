@@ -1,10 +1,10 @@
-import Pricing from '../components/Pricing'
-import ALaCarte from '../components/ALaCarte'
+// import Pricing from '../components/Pricing'
+// import ALaCarte from '../components/ALaCarte'
 
-export default function PriceAndService() {
-    return (
-    <>
-    <Pricing/>
-    </>
-    )
-}
+// export default function PriceAndService() {
+//     return (
+//     <>
+//     <Pricing/>
+//     </>
+//     )
+// }

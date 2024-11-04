@@ -46,14 +46,14 @@ return(
                     Our Process
                   </a>
                   </Link>
-                  <Link href='/pricing'>
+                  {/* <Link href='/pricing'>
                   <a
                     
                     className="inline-flex items-center border-transparent px-1 pt-1 text-sm font-medium text-black hover:border-gray-300 hover:text-gray-500"
                   >
                     Pricing
                   </a>
-                 </Link>
+                 </Link> */}
                  <Link href="/#contact-1">
                   <a
                     
