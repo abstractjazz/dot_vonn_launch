@@ -48,7 +48,7 @@ export default function HowItWorks() {
               <h3 className="mt-2 text-3xl font-bold leading-8 tracking-tight text-gray-900 sm:text-4xl">Our Process</h3><br></br>
               
                 <p>
-                  We&apos;ll always start by learning about your business. And then we&apos;ll establish goals and a plan specific to <em>your business.</em> That means you&apos;ll always talk to a real person, and get a custom solution. From the smallest project to a long-term vision, you get todays leading creative know-how and technical chops.  
+                  We&apos;ll always start by learning about your business. And then we&apos;ll establish goals and a plan specific to <em>your business.</em> That means you&apos;ll always talk to a real person, and get a custom solution. From the smallest project to a long-term vision, you get today&apos;s leading creative know-how and technical chops.  
                 </p>
                 </div>
                 {/* <p>
